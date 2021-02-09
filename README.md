@@ -40,6 +40,6 @@ python3 train.py
 
 | latent of  x<sup>2   | latent of  sin(x)      |
 |------------|-------------|
-| <img src="gallery/latent_x2a.png" width="250"> | <img src="gallery/latent_sin.png" width="250"> | 
+| <img src="gallery/latent_x2a.png" width="250"> | <img src="gallery/latent_sin2.png" width="250"> | 
 
 
