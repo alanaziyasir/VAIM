@@ -37,3 +37,5 @@ python3 train.py
  | f</sub>(x) = x<sup>2. | col 2      |
 |------------|-------------|
 | <img src="gallery/x2.png" width="250"> | <img src="gallery/sin.png" width="250"> |
+| <img src="gallery/x2.png" width="250"> | <img src="gallery/sin.png" width="250"> |
+
