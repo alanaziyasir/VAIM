@@ -16,7 +16,7 @@ The code is written in Python3 and requires the following libraries:
 * Install the python libraries. (See [Requirements](https://github.com/alanaziyasir/VAIM#requirements)).
 * Download the code from GitHub:
 ```bash
-git clone https://github.com/ijcai2021/VAIM
+git clone https://github.com/alanaziyasir/VAIM
 cd VAIM
 ```
 
