@@ -38,4 +38,5 @@ python3 train.py
 |------------|-------------|
 | <img src="gallery/x2.png" width="250"> | <img src="gallery/sin.png" width="250"> |
 | <img src="gallery/x2.png" width="250"> | <img src="gallery/sin.png" width="250"> |
+|------------|-------------|
 
