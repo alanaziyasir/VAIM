@@ -30,7 +30,7 @@ python3 train.py
   
   
  ## Results:
- * The script will create a directory [saved_model/](https://github.com/ijcai2021/VAIM/tree/main/saved_model) and save the the weights with the lowest validation error
+ * The script will create a directory [saved_model/](https://github.com/alanaziyasir/VAIM/tree/main/saved_model) and save the the weights with the lowest validation error
  * It will also plot the latent and the results
  
   ## Example plots after 5k epochs:
