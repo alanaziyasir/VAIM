@@ -23,7 +23,7 @@ cd VAIM
 * Run the python script:
 ``` bash
 python3 train.py
-```
+``` 
 * By default the script will run the first toy example which is f</sub>(x) = x<sup>2.
 * To run another example, adjust self.example variable in line 12 in VAIM.py.
 * To see the jupyter notebbok demo go to VAIM_demo.ipynb.
