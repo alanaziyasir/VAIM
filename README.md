@@ -34,6 +34,6 @@ python3 train.py
  * It will also plot the latent and the results
  
  
- | col 1      | col 2      |
+ | f</sub>(x) = x<sup>2. | col 2      |
 |------------|-------------|
-| <img src="gallery/x2.png" width="250"> | <img src="https://mk0jobadderjftub56m0.kinstacdn.com/wp-content/uploads/stackoverflow.com-300.jpg" width="250"> |
+| <img src="gallery/x2.png" width="250"> | <img src="sin.png" width="250"> |
