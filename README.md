@@ -33,7 +33,7 @@ python3 train.py
  * The script will create a directory [saved_model/](https://github.com/ijcai2021/VAIM/tree/main/saved_model) and save the the weights with the lowest validation error
  * It will also plot the latent and the results
  
- 
+  ## example plots after 5k epochs:
 | f</sub>(x) = x<sup>2      | f</sub>(x) = sin(x)      |
 |------------|-------------|
 | <img src="gallery/x2.png" width="250"> | <img src="gallery/sin.png" width="250"> |
