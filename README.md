@@ -34,10 +34,9 @@ python3 train.py
  * It will also plot the latent and the results
  
  
- | f</sub>(x) = x<sup>2 | f</sub>(x) = sin(x)  |
+| f</sub>(x) = x<sup>2 | f</sub>(x) = sin(x)  |
 |------------|-------------|
 | <img src="gallery/x2.png" width="250"> | <img src="gallery/sin.png" width="250"> |
- | f</sub>(x) = x<sup>2 | f</sub>(x) = sin(x)  |
- |------------|-------------|
+| f</sub>(x) = x<sup>2 | f</sub>(x) = sin(x)  |
 | <img src="gallery/x2.png" width="250"> | <img src="gallery/sin.png" width="250"> |
 
