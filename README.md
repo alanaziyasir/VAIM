@@ -38,7 +38,7 @@ python3 train.py
 |------------|-------------|
 | <img src="gallery/x2.png" width="250"> | <img src="gallery/sin.png" width="250"> |
 
-| f</sub>(x) = x<sup>2      | f</sub>(x) = sin(x)      |
+| x<sup>2 latent      | sin(x) latent      |
 |------------|-------------|
 | <img src="gallery/x2.png" width="250"> | <img src="gallery/sin.png" width="250"> |
 
