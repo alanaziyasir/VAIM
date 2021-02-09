@@ -36,4 +36,4 @@ python3 train.py
  
  | col 1      | col 2      |
 |------------|-------------|
-| <img src="gallery/x2.jpg" width="250"> | <img src="https://mk0jobadderjftub56m0.kinstacdn.com/wp-content/uploads/stackoverflow.com-300.jpg" width="250"> |
+| <img src="gallery/x2.png" width="250"> | <img src="https://mk0jobadderjftub56m0.kinstacdn.com/wp-content/uploads/stackoverflow.com-300.jpg" width="250"> |
