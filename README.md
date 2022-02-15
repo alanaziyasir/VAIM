@@ -7,7 +7,7 @@
 (https://ieeexplore.ieee.org/document/9534012)
 
 ## Requirements
-The code is written in Python3 and requires the following libraries:
+The code is written in Python=3.6, with the following libraries:
 * tensorflow==1.11.0
 * keras==2.1.2
 
