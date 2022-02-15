@@ -4,7 +4,7 @@
   # VAIM
 
 **This is the implementation of Variational Autoencoder Inverse Mapper: An End-to-End Deep Learning Framework for Inverse Problems (VAIM).**
-
+(https://ieeexplore.ieee.org/document/9534012)
 
 ## Requirements
 The code is written in Python3 and requires the following libraries:
